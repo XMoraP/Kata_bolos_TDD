@@ -5,13 +5,13 @@
 ## Requisitos para la ejecución de las pruebas                         
     
 - Tener instalado Python previamente                               
-- Si tiene instalado Make. Dentro del directorio 'ped8/p1/xavier':
+- Si tiene instalado Make. Dentro del directorio principal del repositorio:
     * Ejecute el comando:
 ```bash                                                                
         make t
 ```
         
-- Si no tiene instalado Make. Dentro del directorio 'ped8/p1/xavier':       
+- Si no tiene instalado Make. Dentro del directorio principal del repositorio:       
     * Ejecute el comando:
 ```bash                                                                
         python3 -m unittest -v test/test_bolos.py                      
